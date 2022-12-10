@@ -5,3 +5,6 @@ payload:
   # lastpass service
   - DOMAIN-SUFFIX,lastpass.com
   - DOMAIN-KEYWORD,lastpass
+
+  # coins.ph
+  - DOMAIN-SUFFIX,coins.ph
