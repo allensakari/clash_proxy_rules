@@ -8,3 +8,11 @@ payload:
   
   #coinsxyz
   - DOMAIN_SUFFIX,coinsxyz.me
+  
+  #JIRA
+  - DOMAIN-KEYWORD,atlassian
+  - DOMAIN-KEYWORD,confluence
+  - DOMAIN-KEYWORD,zendesk
+  
+  #Others
+  - DOMAIN-KEYWORD,sentinelone
