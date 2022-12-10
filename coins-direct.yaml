@@ -7,7 +7,7 @@ payload:
   - DOMAIN-SUFFIX,diskarte.net
   
   #coinsxyz
-  - DOMAIN_SUFFIX,coinsxyz.me
+  - DOMAIN-SUFFIX,coinsxyz.me
   
   #JIRA
   - DOMAIN-KEYWORD,atlassian
