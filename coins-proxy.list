@@ -1,0 +1,7 @@
+payload:
+  # Okta service 
+  - DOMAIN-SUFFIX,okta.com
+
+  # lastpass service
+  - DOMAIN-SUFFIX,lastpass.com
+  - DOMAIN-KEYWORD,lastpass
