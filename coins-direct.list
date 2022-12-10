@@ -1,0 +1,10 @@
+payload:
+  # slack service
+  - DOMAIN-SUFFIX,slack.com
+  - DOMAIN-SUFFIX,slackb.com
+
+  # gitlab
+  - DOMAIN-SUFFIX,diskarte.net
+  
+  #coinsxyz
+  - DOMAIN_SUFFIX,coinsxyz.me
