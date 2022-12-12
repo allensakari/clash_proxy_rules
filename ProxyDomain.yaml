@@ -143,7 +143,7 @@ payload:
   - DOMAIN-SUFFIX,resilio.com
   - DOMAIN-SUFFIX,sfx.ms
   - DOMAIN-SUFFIX,shadowsocks.org
-  - DOMAIN-SUFFIX,slack-edge.com
+  #- DOMAIN-SUFFIX,slack-edge.com
   - DOMAIN-SUFFIX,smartdnsproxy.com
   - DOMAIN-SUFFIX,sndcdn.com
   - DOMAIN-SUFFIX,soundcloud.com
