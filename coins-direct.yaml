@@ -2,6 +2,8 @@ payload:
   # slack service
   - DOMAIN-SUFFIX,slack.com
   - DOMAIN-SUFFIX,slackb.com
+  - DOMAIN-SUFFIX,slack-imgs.com
+  - DOMAIN-KEYWORD,slack
 
   # gitlab
   - DOMAIN-SUFFIX,diskarte.net
