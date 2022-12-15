@@ -11,6 +11,9 @@ payload:
   #coinsxyz
   - DOMAIN-SUFFIX,coinsxyz.me
   
+  #HR system
+  - DOMAIN-SUFFIX,bamboohr.com
+  
   #JIRA
   - DOMAIN-KEYWORD,atlassian
   - DOMAIN-KEYWORD,confluence
