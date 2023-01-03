@@ -2,6 +2,7 @@ payload:
   # 内容：amazon & aws
 
   - DOMAIN-KEYWORD,avoddashs
+  - DOMAIN-SUFFIX,api.aws
   - DOMAIN-SUFFIX,aws.a2z.com
   - DOMAIN,atv-ps.amazon.com
   - DOMAIN,avodmp4s3ww-a.akamaihd.net
