@@ -21,3 +21,6 @@ payload:
   
   #Others
   - DOMAIN-KEYWORD,sentinelone
+  - DOMAIN-SUFFIX,pagerduty.com
+  - DOMAIN-SUFFIX,knowbe4.com
+
