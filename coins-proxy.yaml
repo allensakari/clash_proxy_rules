@@ -1,5 +1,6 @@
 payload:
-  # Okta service 
+ 
+ # Okta service 
   - DOMAIN-SUFFIX,okta.com
   - DOMAIN-SUFFIX,oktacdn.com
 
@@ -9,3 +10,6 @@ payload:
 
   # coins.ph
   - DOMAIN-SUFFIX,coins.ph
+
+  # other
+  - DOMAIN-SUFFIX,lever.co
