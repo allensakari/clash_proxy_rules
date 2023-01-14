@@ -3,6 +3,10 @@ payload:
   
   # added by Allen
   - DOMAIN-SUFFIX,ghproxy.com
+  - DOMAIN-SUFFIX,okx-dev.net
+  - DOMAIN-SUFFIX,okx-dns.com
+  - DOMAIN-SUFFIX,okx-dns1.com
+  - DOMAIN-SUFFIX,okx-dns2.com
   
   # CN域名直连(中国|公司|网络)
   - DOMAIN-SUFFIX,cn
