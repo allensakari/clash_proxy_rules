@@ -15,5 +15,9 @@ payload:
   - DOMAIN-SUFFIX,aicoin.com
   - DOMAIN-SUFFIX,aicoin.net
   
+  # OKX
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,okex.com
+  
   # Others
   - DOMAIN-SUFFIX,tradingview.com
