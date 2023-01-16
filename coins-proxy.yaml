@@ -8,8 +8,6 @@ payload:
   - DOMAIN-SUFFIX,lastpass.com
   - DOMAIN-KEYWORD,lastpass
 
-  # coins.ph
-  - DOMAIN-SUFFIX,coins.ph
 
   # other
   - DOMAIN-SUFFIX,lever.co
