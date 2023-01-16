@@ -11,6 +11,9 @@ payload:
   #coinsxyz
   - DOMAIN-SUFFIX,coinsxyz.me
   
+  #coinsph
+  - DOMAIN-SUFFIX,coins.ph
+  
   #HR system
   - DOMAIN-SUFFIX,bamboohr.com
   
