@@ -33,4 +33,5 @@ payload:
   - DOMAIN-KEYWORD,coinmarketcap
   - DOMAIN-SUFFIX,snapshot.org
   - DOMAIN-SUFFIX,gemeni.com
+  - DOMAIN-SUFFIX,walletconnect.org
 
