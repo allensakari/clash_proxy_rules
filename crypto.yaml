@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,saasexch.com
   - DOMAIN-SUFFIX,appsflayer.com
+  - DOMAIN-SUFFIX,binance.info
 
   # AIcoin
   - DOMAIN-SUFFIX,aicoin.com
@@ -28,4 +29,8 @@ payload:
   - DOMAIN-KEYWORD,uniswap
   - DOMAIN-KEYWORD,etherscan
   - DOMAIN-KEYWORD,opensea
+  - DOMAIN-KEYWORD,coingecko
+  - DOMAIN-KEYWORD,coinmarketcap
+  - DOMAIN-SUFFIX,snapshot.org
+  - DOMAIN-SUFFIX,gemeni.com
 
