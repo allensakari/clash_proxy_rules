@@ -25,3 +25,7 @@ payload:
   
   # Others
   - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-KEYWORD,uniswap
+  - DOMAIN-KEYWORD,etherscan
+  - DOMAIN-KEYWORD,opensea
+
