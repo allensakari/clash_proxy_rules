@@ -21,6 +21,7 @@ payload:
   - DOMAIN-KEYWORD,atlassian
   - DOMAIN-KEYWORD,confluence
   - DOMAIN-KEYWORD,zendesk
+  - DOMAIN-SUFFIX,atl-paas.net
   
   #Others
   - DOMAIN-KEYWORD,sentinelone
