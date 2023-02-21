@@ -1,7 +1,7 @@
 payload:
  
  # Okta service 
-  - DOMAIN-SUFFIX,okta.com
+ # - DOMAIN-SUFFIX,okta.com
   - DOMAIN-SUFFIX,oktacdn.com
 
   # lastpass service
