@@ -6,7 +6,7 @@ payload:
   - DOMAIN-KEYWORD,slack
   
   #coinsxyz
-  - DOMAIN-SUFFIX,coinsxyz.me
+  #- DOMAIN-SUFFIX,coinsxyz.me
   
   #coinsph
   - DOMAIN-SUFFIX,coins.ph
