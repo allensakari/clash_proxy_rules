@@ -4,9 +4,6 @@ payload:
   - DOMAIN-SUFFIX,slackb.com
   - DOMAIN-SUFFIX,slack-imgs.com
   - DOMAIN-KEYWORD,slack
-
-  # gitlab
-  - DOMAIN-SUFFIX,diskarte.net
   
   #coinsxyz
   - DOMAIN-SUFFIX,coinsxyz.me
@@ -16,6 +13,7 @@ payload:
   
   #HR system
   - DOMAIN-SUFFIX,bamboohr.com
+  - DOMAIN-SUFFIX,lever.co
   
   #JIRA
   - DOMAIN-KEYWORD,atlassian
@@ -25,8 +23,9 @@ payload:
   
   #Others
   - DOMAIN-KEYWORD,sentinelone
+  - DOMAIN-SUFFIX,kandji.io
   - DOMAIN-SUFFIX,pagerduty.com
   - DOMAIN-SUFFIX,knowbe4.com
   - DOMAIN-SUFFIX,linkedin.com
-  - DOMAIN-SUFFIX,lever.co
+
 
