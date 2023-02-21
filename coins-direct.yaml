@@ -28,4 +28,5 @@ payload:
   - DOMAIN-SUFFIX,pagerduty.com
   - DOMAIN-SUFFIX,knowbe4.com
   - DOMAIN-SUFFIX,linkedin.com
+  - DOMAIN-SUFFIX,lever.co
 
