@@ -3,7 +3,7 @@ payload:
   - DOMAIN-SUFFIX,slack.com
   - DOMAIN-SUFFIX,slackb.com
   - DOMAIN-SUFFIX,slack-imgs.com
-  - DOMAIN-KEYWORD,slack
+  - DOMAIN-SUFFIX,slack-edge.com
   
   #coinsxyz
   #- DOMAIN-SUFFIX,coinsxyz.me
@@ -26,7 +26,7 @@ payload:
   - DOMAIN-SUFFIX,kandji.io
   - DOMAIN-SUFFIX,pagerduty.com
   - DOMAIN-SUFFIX,knowbe4.com
-  #- DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,okta.com
+  - DOMAIN-SUFFIX,oktacdn.com
 
 
