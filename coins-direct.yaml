@@ -28,5 +28,7 @@ payload:
   - DOMAIN-SUFFIX,knowbe4.com
   - DOMAIN-SUFFIX,okta.com
   - DOMAIN-SUFFIX,oktacdn.com
+  - DOMAIN-SUFFIX,lastpass.com
+  
 
 
