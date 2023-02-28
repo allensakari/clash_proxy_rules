@@ -5,9 +5,6 @@ payload:
   - DOMAIN-SUFFIX,slack-imgs.com
   - DOMAIN-SUFFIX,slack-edge.com
   
-  #coinsxyz
-  #- DOMAIN-SUFFIX,coinsxyz.me
-  
   #coinsph
   - DOMAIN-SUFFIX,coins.ph
   
@@ -20,10 +17,11 @@ payload:
   - DOMAIN-KEYWORD,confluence
   - DOMAIN-KEYWORD,zendesk
   - DOMAIN-SUFFIX,atl-paas.net
+  - DOMAIN-SUFFIX,statuspage.io
+  - DOMAIN-SUFFIX,nextup.ai
   
   #Others
   - DOMAIN-KEYWORD,sentinelone
-  #- DOMAIN-SUFFIX,kandji.io
   - DOMAIN-SUFFIX,pagerduty.com
   - DOMAIN-SUFFIX,knowbe4.com
   - DOMAIN-SUFFIX,okta.com
