@@ -4,6 +4,7 @@ payload:
   # added by Allen
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,cmbchina.com
+  - DOMAIN-KEYWORD,95508
   
   # CN域名直连(中国|公司|网络)
   - DOMAIN-SUFFIX,cn
